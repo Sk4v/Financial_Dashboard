@@ -1,0 +1,7 @@
+{
+  "Current Ratio" : "\\frac{CurrentAssets}{CurrentLiabilities}",
+  "P/E Ratio": "\\frac{price}{\\frac{netIncome}{shareNumber}}",
+  "Price to Sales Ratio": "\\frac{price}{\\frac{revenue}{shareNumber}}",
+  "PCF Ratio" : "\\frac{price}{\\frac{operatingCashFlow}{shareNumber}}",
+  "PFCF Ratio" : "\\frac{marketCap}{freeCashFlow}"
+}
